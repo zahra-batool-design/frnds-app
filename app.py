@@ -449,4 +449,4 @@ with tab5:
     st.balloons()
     st.snow()
 
-    st.success("🎂 Happy Birthday Naeem G 🎉💖")
+    st.success("🎂 Happy Birthday DEAR 🎉💖")
