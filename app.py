@@ -97,7 +97,7 @@ with tab1:
     </style>
     """, unsafe_allow_html=True)
 
-    st.markdown("<div class='title glow'>💖 HAPPY BIRTHDAY NAEEM G 💖</div>", unsafe_allow_html=True)
+    st.markdown("<div class='title glow'>💖 HAPPY BIRTHDAY DEAR 💖</div>", unsafe_allow_html=True)
 
     st.markdown("""
     <div class='box'>
@@ -115,7 +115,7 @@ with tab1:
     st.snow()
 
     # extra filler content (real feature expansion)
-    st.markdown("## 🎁 Birthday Wishes For My Inocent Catoo💞😸")
+    st.markdown("## 🎁 Birthday Wishes For loved once💞😸")
 
     wishes = [
         "May your life shine brighter than stars ✨",
@@ -180,7 +180,7 @@ with tab2:
 
     st.markdown("<h1 class='glow' style='text-align:center;'>❤️ That's For You G ❤️</h1>", unsafe_allow_html=True)
 
-    st.markdown("<div class='center'><div class='heart'><div class='name'>NAEEM G</div></div></div>", unsafe_allow_html=True)
+    st.markdown("<div class='center'><div class='heart'><div class='name'>DEAR</div></div></div>", unsafe_allow_html=True)
 
     st.markdown("## 💖 Messages.....")
     msgs = [
@@ -217,7 +217,7 @@ with tab3:
 
     st.markdown("""
     <div class='letter'>
-    Dear Naeem G ❤️<br><br>
+    Dear frnd ❤️<br><br>
 
     I don’t know how to perfectly express this feeling.<br><br>
 
@@ -400,7 +400,7 @@ with tab5:
     """, unsafe_allow_html=True)
 
     # ---------------- TITLE ----------------
-    st.markdown("<div class='big-title'>🎉 HAPPY BIRTHDAY NAEEM G 🎉</div>", unsafe_allow_html=True)
+    st.markdown("<div class='big-title'>🎉 HAPPY BIRTHDAY TO YOU 🎉</div>", unsafe_allow_html=True)
 
     
 
